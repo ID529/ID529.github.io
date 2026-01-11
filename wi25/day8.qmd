@@ -1,0 +1,78 @@
+---
+title: "Day 8"
+sidebar:
+  style: "floating"
+  search: true
+  contents: auto
+---
+
+Outline: 
+
+  - Principles for Data Analysis 
+  - Functional Programming
+  - COVID OSHA Example
+  - Student Choice
+  - Age Standardization 
+  - Baby Boom Visualization
+  - R4DS Giveaway
+
+:::{.callout-tip collapse='true'}
+### Lecture 1: Principles for data analysis
+<iframe src="https://id529.github.io/slides-day8/lecture1-principles-for-data-analysis/principles.html" width="100%" height="500px"></iframe>
+:::
+<a href="https://id529.github.io/slides-day8/lecture1-principles-for-data-analysis/principles.html"> link to view slides fullscreen </a>
+<br>
+<a href="https://drive.google.com/file/d/1UTPf78R_x2yoLq5NvDHPSEGIOn9MDf7P/view?usp=share_link"> link to PDF slides </a> 
+
+:::{.callout-tip collapse='true'}
+### Lecture 2: Functional Programming
+
+[link to functional programming demo script](https://gist.github.com/ctesta01/93a27ebf887c6371f7bfebb8551f35c3)
+:::
+
+:::{.callout-tip collapse='true'}
+### COVID OSHA Project Example 
+
+Link to Project: <https://github.com/ctesta01/covid_osha>
+:::
+
+:::{.callout-tip collapse='true'}
+### Student Choice
+
+[link to script that goes over requested topics](https://gist.github.com/ctesta01/3d1a86c4ab778896ef6cbaaa92919230)
+:::
+
+:::{.callout-tip collapse='true'}
+### Kieran Healy's Baby Boom Data Visualization Poster
+
+Together we took a look at [this poster](https://kieranhealy.org/blog/archives/2023/12/20/the-baby-boom-again/) from Kieran Healy and the code from [the repository](https://github.com/kjhealy/us_births). 
+
+The example was instructive on a few points: 
+
+  * We thought it was neat how Kieran used the legend
+  to create a title.
+  * We saw how he used `cowplot::plot_grid` and/or the `patchwork` package
+  to construct the graphic with multiple panels.
+  * Seeing how `png()` and `pdf()` can be used, similar to 
+  `ggsave()`, to save plots was useful — especially for
+  non-ggplot2 visualizations. 
+  * We had to do a little bit of debugging, figuring out 
+  that we needed to use `scale_x_yearmonth()` instead of 
+  `scale_x_date()` and we figured that out by 1) reading
+  the error we got in R, and 2) checking what the class/type 
+  of the column mapped onto the `x` aesthetic was. 
+  
+:::
+
+:::{.callout-tip collapse='true'}
+## Video Recording from 2025
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/ulPhGIU4KuM?si=jF4cbhAm2ACkKJ_6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+
+
+:::{.callout-tip collapse='true'}
+## Video Recording from 2023
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/ztKPu52UQfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::

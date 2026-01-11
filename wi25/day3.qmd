@@ -1,0 +1,77 @@
+---
+title: "Day 3"
+sidebar:
+  style: "floating"
+  search: true
+  contents: auto
+---
+
+Outline of topics: 
+
+  - Lecture: Intro to dplyr
+  - Lecture: Cleaning Text Data 
+  - Activity: Cleaning Data 
+  - Lecture: Writing Functions 
+  - Activity: Functions
+
+## Slides
+
+::: {.callout-tip collapse="false"}
+### Lecture 1: Intro to dplyr 
+
+<iframe src="https://id529.github.io/slides-day3/lecture2-intro-to-dplyr/intro-to-dplyr.html" width="100%" height="500px"></iframe>
+
+:::
+
+<a href="https://id529.github.io/slides-day3/lecture2-intro-to-dplyr/intro-to-dplyr.html" target="_blank">link to view slides fullscreen</a> <br>
+
+
+
+::: {.callout-tip collapse='true'}
+### Lecture 2: Cleaning Text Data 
+
+<iframe src="https://id529.github.io/slides-day3/lecture4-cleaning-text-data/cleaning-text-data.html" width="100%" height="500px"></iframe>
+
+:::
+
+<a href="https://id529.github.io/slides-day3/lecture4-cleaning-text-data/cleaning-text-data.html" target="_blank">link to view slides fullscreen</a> 
+
+
+::: {.callout-tip collapse='true'}
+### Activity: Cleaning Data 
+
+<iframe src="https://id529.github.io/slides-day3/activity-data-cleaning/activity-data-cleaning.html" width="100%" height="500px"></iframe>
+
+:::
+
+<a href="https://id529.github.io/slides-day3/activity-data-cleaning/activity-data-cleaning.html" target="_blank">link to view slides fullscreen</a> <br>
+
+<a href="https://github.com/jarvischen01/id529_messyData/tree/main" target="_blank">link to github repository</a>
+
+::: {.callout-tip collapse='true'}
+### Lecture 3: Functions 
+
+<iframe src="https://id529.github.io/slides-day3/lecture5-functions/functions.html" width="100%" height="500px"></iframe>
+:::
+
+<a href="https://id529.github.io/slides-day3/lecture5-functions/functions.html" target="_blank">link to view slides fullscreen</a> 
+
+## Recordings 
+
+:::{.callout-tip collapse='false'}
+## Video Recording from 2025
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/hJt83aW0SQ8?si=ndZ8CAV9c9ZLglkX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+
+
+:::{.callout-tip collapse='true'}
+## Video Recording from 2024
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/GsZIGBL2hpQ?si=Jr54z8m1fTl8FS4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::
+
+:::{.callout-tip collapse='true'}
+## Video Recording from 2023
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/g5s2jibMhAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::

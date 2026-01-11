@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>ID529: Data Management and Analytic Workflows in R - Day 7</title>
+<title>ID529: Data Management and Analytic Workflows in R - Day 3</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -144,24 +144,62 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-past-years-content" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-last-years-content" role="button" data-bs-toggle="dropdown" aria-expanded="false">
       <i class="bi bi-mortarboard" role="img">
 </i> 
- <span class="menu-text">Past Years’ Content</span>
+ <span class="menu-text">Last Years’ Content</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-past-years-content">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-last-years-content">    
+        <li>
+    <a class="dropdown-item" href="../wi24/day1.html">
+ <span class="dropdown-text">Day 1</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../wi24/day2.html">
+ <span class="dropdown-text">Day 2</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../wi24/day3.html">
+ <span class="dropdown-text">Day 3</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../wi24/day4.html">
+ <span class="dropdown-text">Day 4</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../wi24/day5.html">
+ <span class="dropdown-text">Day 5</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../wi24/day6.html">
+ <span class="dropdown-text">Day 6</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../wi24/day7.html">
+ <span class="dropdown-text">Day 7</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../wi24/day8.html">
+ <span class="dropdown-text">Day 8</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../wi24/day9.html">
+ <span class="dropdown-text">Day 9</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-content-from-2023-2024" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+      <i class="bi bi-mortarboard" role="img">
+</i> 
+ <span class="menu-text">Content from 2023, 2024</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-content-from-2023-2024">    
         <li>
     <a class="dropdown-item" href="../2023.html">
  <span class="dropdown-text">2023</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="../2024.html">
- <span class="dropdown-text">2024</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../2025.html">
- <span class="dropdown-text">2025</span></a>
-  </li>  
+        <li class="dropdown-header">2024</li>
     </ul>
   </li>
 </ul>
@@ -176,14 +214,21 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#slides" id="toc-slides" class="nav-link active" data-scroll-target="#slides">Slides</a></li>
+  <li><a href="#recordings" id="toc-recordings" class="nav-link" data-scroll-target="#recordings">Recordings</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Day 7</h1>
+<h1 class="title">Day 3</h1>
 </div>
 
 
@@ -200,124 +245,146 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Outline:</p>
+<p>Outline of topics:</p>
 <ul>
-<li>An Analysis Start-to-Finish: Environmental Monitoring</li>
-<li>Longitudinal Data Analysis</li>
-<li>Visualizing Missing Data</li>
-<li>Easy Exploratory Data Analysis</li>
-<li>Principles for Clean Code</li>
+<li>Lecture: Intro to dplyr</li>
+<li>Lecture: Cleaning Text Data</li>
+<li>Activity: Cleaning Data</li>
+<li>Lecture: Writing Functions</li>
+<li>Activity: Functions</li>
 </ul>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
 <div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="true" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Lecture 1: An Analysis Start to Finish
+Lecture 1: Intro to dplyr
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div id="callout-1" class="callout-1-contents callout-collapse collapse show">
 <div class="callout-body-container callout-body">
-<iframe src="https://id529.github.io/lectures2024/day7/lecture1-data-analysis-start-to-finish/data-analysis-start-to-finish.html#/data-analysis-from-start-to-finish" width="100%" height="500px">
+<iframe src="https://id529.github.io/slides-day3/lecture2-intro-to-dplyr/intro-to-dplyr.html" width="100%" height="500px">
 </iframe>
 </div>
 </div>
 </div>
-<p><a href="https://id529.github.io/lectures2024/day7/lecture1-data-analysis-start-to-finish/data-analysis-start-to-finish.html#/data-analysis-from-start-to-finish">link to view fullscreen</a> <br></p>
-<p><a href="https://drive.google.com/file/d/1ChSP6ROvVakYR_o5kLpPw8fsPivvLQkq/view?usp=drive_link">link to slide pdf</a><br></p>
+<p><a href="https://id529.github.io/slides-day3/lecture2-intro-to-dplyr/intro-to-dplyr.html" target="_blank">link to view slides fullscreen</a> <br></p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Lecture 2: Exploratory data analysis – Longitudinal data analysis
+Lecture 2: Cleaning Text Data
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-2" class="callout-2-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<iframe src="https://ctesta01.github.io/longitudinal_eda_talk/longitudinal_eda.html" width="100%" height="500px">
+<iframe src="https://id529.github.io/slides-day3/lecture4-cleaning-text-data/cleaning-text-data.html" width="100%" height="500px">
 </iframe>
 </div>
 </div>
 </div>
-<p><a href="https://ctesta01.github.io/longitudinal_eda_talk/longitudinal_eda.html#1">link to view fullscreen </a> <br> <a href="https://drive.google.com/file/d/1ei8nQa8z-GeYakOdyZkRCF4yN2jZSxFx/view?usp=drive_link">link to slide pdf</a> <br> <a href="https://github.com/ID529/lectures/blob/69d500e7d0ecc02e0b5a1bbceb17c11fd3fa19db/day7/lecture2-longitudinal-data-analysis/longitudinal_eda.R"> link to longitudinal_eda.R script </a><a> <br> </a><a href="https://github.com/ID529/lectures/blob/69d500e7d0ecc02e0b5a1bbceb17c11fd3fa19db/day7/lecture2-longitudinal-data-analysis/make_simulated_data.R"> link to make_simulated_data.R script </a></p>
+<p><a href="https://id529.github.io/slides-day3/lecture4-cleaning-text-data/cleaning-text-data.html" target="_blank">link to view slides fullscreen</a></p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Lecture 3: Missing data
+Activity: Cleaning Data
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-3" class="callout-3-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<iframe src="https://id529.github.io/lectures/day7/lecture2-missing-data/missing-data.html" width="100%" height="500px">
+<iframe src="https://id529.github.io/slides-day3/activity-data-cleaning/activity-data-cleaning.html" width="100%" height="500px">
 </iframe>
 </div>
 </div>
 </div>
-<p><a href="https://id529.github.io/lectures/day7/lecture2-missing-data/missing-data.html">link to view slides fullscreen</a> <br> <a href="https://drive.google.com/file/d/1hXNs3z-491eOBDo3H5pvogbax1O8oM1R/view?usp=share_link"> link to slide PDFs </a> <br> <a href="https://github.com/ID529/lectures/blob/69d500e7d0ecc02e0b5a1bbceb17c11fd3fa19db/day7/lecture2-missing-data/missing-demo.R"> link to missing-demo.R script </a></p>
+<p><a href="https://id529.github.io/slides-day3/activity-data-cleaning/activity-data-cleaning.html" target="_blank">link to view slides fullscreen</a> <br></p>
+<p><a href="https://github.com/jarvischen01/id529_messyData/tree/main" target="_blank">link to github repository</a></p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Lecture 4: Accessible exploratory data analysis
+Lecture 3: Functions
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-4" class="callout-4-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p><a href="https://github.com/ID529/lectures/blob/69d500e7d0ecc02e0b5a1bbceb17c11fd3fa19db/day7/lecture3-accessible-eda/eda.R"> link to eda.R script </a></p>
+<iframe src="https://id529.github.io/slides-day3/lecture5-functions/functions.html" width="100%" height="500px">
+</iframe>
 </div>
 </div>
 </div>
+<p><a href="https://id529.github.io/slides-day3/lecture5-functions/functions.html" target="_blank">link to view slides fullscreen</a></p>
+</section>
+<section id="recordings" class="level2">
+<h2 class="anchored" data-anchor-id="recordings">Recordings</h2>
 <div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="true" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Lecture 5: Clean code and considerate coding
+Video Recording from 2025
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-5" class="callout-5-contents callout-collapse collapse">
+<div id="callout-5" class="callout-5-contents callout-collapse collapse show">
 <div class="callout-body-container callout-body">
-<iframe src="https://id529.github.io/lectures/day7/lecture4-clean-code-and-considerate-coding/clean_code.html" width="100%" height="500px">
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/hJt83aW0SQ8?si=ndZ8CAV9c9ZLglkX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
 </iframe>
-<p><a href="https://style.tidyverse.org/index.html">the tidyverse style guide</a></p>
 </div>
 </div>
 </div>
-<p><a href="https://id529.github.io/lectures/day7/lecture4-clean-code-and-considerate-coding/clean_code.html">link to view fullscreen</a> <br></p>
-<p><a href="https://drive.google.com/file/d/10ZQCPBuz-ON-lC6FKRB9OBBEDeIRkAid/view?usp=drive_link">link to pdf</a> <br></p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Last Year’s Video Recording
+Video Recording from 2024
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-6" class="callout-6-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/64LwElkfOuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/GsZIGBL2hpQ?si=Jr54z8m1fTl8FS4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+</iframe>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Video Recording from 2023
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-7" class="callout-7-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/g5s2jibMhAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
 </iframe>
 </div>
 </div>
 </div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

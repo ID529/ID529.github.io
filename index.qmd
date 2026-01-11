@@ -9,11 +9,14 @@ Details:
 
  * Find the course on [my.harvard.edu](https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH&SearchReqJSON=%7B%22PageNumber%22%3A1%2C%22PageSize%22%3A%22%22%2C%22SortOrder%22%3A%5B%22SCORE%22%5D%2C%22Facets%22%3A%5B%5D%2C%22Category%22%3A%22HU_SCL_SCHEDULED_BRACKETED_COURSES%22%2C%22SearchPropertiesInResults%22%3Atrue%2C%22FacetsInResults%22%3Atrue%2C%22SaveRecent%22%3Afalse%2C%22TopN%22%3A%22%22%2C%22ExcludeBracketed%22%3Atrue%2C%22SearchText%22%3A%22ID529%22%2C%22DeepLink%22%3Afalse%7D) 
  * Course Hours: 1:30-5:30 PM 
- * Classroom: Our classroom will be Kresge G2. 
+ * Classroom: Our classroom will be Kresge 502. 
  * Course Dates: 
-   - Monday January 13th - Friday January 17th, 
-   - Tuesday January 21st - Friday January 24th, 2023 
- * Office Hours: 11:30 AM – 12:30 PM on Wednesday January 15th, Thursday January 23rd 
+   - Monday January 12th - Friday January 16th, 
+   - Tuesday January 20th - Friday January 23rd, 2026 
+ * Office Hours: 
+   - 12:00 PM – 1:00 PM on Wednesday January 14th
+   - 11:00 AM – 12:00 PM on Thursday January 15th, Wednesday January 21st, Thursday January 22nd 
+
  * Limit 60 students, priority for Population Health Science (PHS) students
 
 ### Course Description 
@@ -155,15 +158,15 @@ And lots more 🙂
 
 ### Jump into the Curriculum 
 
-- [Day 1 — Monday January 13th, 2024](/day1.html)
-- [Day 2 — Tuesday January 14th, 2024](/day2.html)
-- [Day 3 — Wednesday January 15th, 2024](/day3.html)
-- [Day 4 — Thursday January 16th, 2024](/day4.html) 
-- [Day 5 — Friday January 17th, 2024](/day5.html)
-- (MLK Jr. Day on Monday January 15th) 
-- [Day 6 — Tuesday January 21st, 2024](/day6.html) 
-- [Day 7 — Wednesday January 22nd, 2024](/day7.html) 
-- [Day 8 — Thursday January 23rd, 2024](/day8.html) 
-- [Day 9 — Friday January 24th, 2024](/day9.html)
+- [Day 1 — Monday January 12th, 2026](/day1.html)
+- [Day 2 — Tuesday January 13th, 2026](/day2.html)
+- [Day 3 — Wednesday January 14th, 2026](/day3.html)
+- [Day 4 — Thursday January 15th, 2026](/day4.html) 
+- [Day 5 — Friday January 16th, 2026](/day5.html)
+- (MLK Jr. Day on Monday January 14th) 
+- [Day 6 — Tuesday January 20th, 2026](/day6.html) 
+- [Day 7 — Wednesday January 21st, 2026](/day7.html) 
+- [Day 8 — Thursday January 22nd, 2026](/day8.html) 
+- [Day 9 — Friday January 23rd, 2026](/day9.html)
 
 <iframe>

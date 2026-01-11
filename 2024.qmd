@@ -1,0 +1,11 @@
+# Past Curriculum from 2024
+
+  - [Day 1](wi24/day1.html)
+  - [Day 2](wi24/day2.html)
+  - [Day 3](wi24/day3.html)
+  - [Day 4](wi24/day4.html)
+  - [Day 5](wi24/day5.html)
+  - [Day 6](wi24/day6.html)
+  - [Day 7](wi24/day7.html)
+  - [Day 8](wi24/day8.html)
+  - [Day 9](wi24/day9.html)

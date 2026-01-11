@@ -1,0 +1,105 @@
+---
+title: "Day 1"
+format: html
+---
+
+<!-- {{< include ../lectures/day1/readme-day1.md >}} -->
+
+Outline of Topics 
+
+  * Welcome
+  * Intro to the Course
+  * Demo
+  * RStudio and R, Git and GitHub 
+
+## Slides
+
+::: {.callout-tip collapse="false"}
+### Lecture 0 — Welcome to ID529 
+[![](assets/lecture0_cover.png)](https://raw.githubusercontent.com/ID529/slides-day1/refs/heads/main/lecture0-welcome/id529_intro.pdf)
+:::
+[link to pdf slides](https://raw.githubusercontent.com/ID529/slides-day1/refs/heads/main/lecture0-welcome/id529_intro.pdf)
+
+
+::: {.callout-tip collapse="true"}
+### View Slides for Intro to ID529 
+<iframe src="https://id529.github.io/slides-day1/lecture1-intro/lecture1.html#/title-slide" width="100%" height="500px"></iframe>
+:::
+[view slides fullscreen](https://id529.github.io/slides-day1/lecture1-intro/lecture1.html)
+<br>
+
+
+::: {.callout-tip collapse="true"}
+### Slides for Final Project Format
+<iframe src="https://id529.github.io/slides-day1/lecture2-final-project/final_presentation_format.html#/title-slide" width="100%" height="500px"></iframe>
+:::
+<a href="https://id529.github.io/slides-day1/lecture2-final-project/final_presentation_format.html#/title-slide">link to view slides fullscreen</a>
+<br>
+
+
+::: {.callout-tip collapse="true"}
+### View Slides for Intro to RStudio and R
+<iframe src="https://id529.github.io/slides-day1/lecture3-intro-to-rstudio-and-r/rstudio-and-r.html" width="100%" height="500px"></iframe>
+:::
+<a href="https://id529.github.io/slides-day1/lecture3-intro-to-rstudio-and-r/rstudio-and-r.html">link to view slides fullscreen</a>
+<br>
+
+
+::: {.callout-tip collapse="true"}
+### View Slides for Git and GitHub
+<iframe src="https://id529.github.io/slides-day1/lecture4-intro-to-git-and-github/git-and-github.html" width="100%" height="500px"></iframe>
+:::
+<a href="https://id529.github.io/slides-day1/lecture4-intro-to-git-and-github/git-and-github.html">link to view slides fullscreen</a>
+<br>
+
+
+## Positive Affirmations 
+
+<img src="https://github.com/ID529/lectures/blob/main/affirmations/affirmations.jpg?raw=true" width='100%' alt="Here are some affirmations that can help you to reframe your thoughts and let go of any negative self-doubt or imposter syndrome that you may be feeling. 
+
+* I am capable and competent.
+* I am worthy and deserving of success.
+* I trust in my abilities and the effort I put forth. 
+* I am enough, exactly as I am.
+* I am learning and growing with each challenge I face. 
+
+It's important to remember that everyone experiences moments of self-doubt and uncertainty, and it's okay to not feel confident all the time. 
+
+The key is to recognize and acknowledge those feelings, and then remind ourselves of our strengths and capabilities. ">
+
+<a href="https://raw.githubusercontent.com/ID529/lectures/main/affirmations/affirmations.jpg">link to view fullscreen</a>
+
+In text form: 
+
+Here are some affirmations that can help you to reframe your thoughts and let go of any negative self-doubt or impostor syndrome that you may be feeling.
+
+  * I am capable and competent.
+  * I am worthy and deserving of success.
+  * I trust in my abilities and the effort I put forth.
+  * I am enough, exactly as I am.
+  * I am learning and growing with each challenge I face.
+
+It's important to remember that everyone experiences moments of self-doubt and uncertainty, and it's okay to not feel confident all the time.
+
+The key is to recognize and acknowledge those feelings, and then remind ourselves of our strengths and capabilities.
+
+:::{.callout-tip collapse='false'}
+## Video Recording from 2025 
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/wUFstBStHZE?si=oeEXwYpykFTvIAqF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+
+:::{.callout-tip collapse='true'}
+## Video Recording from 2024
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/mlvUvYRrQOQ?si=7M3NcDjilhV1qQDS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Apologies we accidentally didn't capture the RStudio and R talk on this
+recording. See other years' recording for that section if you'd like. 
+:::
+
+::: {.callout-tip collapse="true"}
+## Video Recording from 2023 
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/yxvROGxWys0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::

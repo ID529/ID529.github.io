@@ -1,0 +1,11 @@
+# Past Curriculum from 2023
+
+  - [Day 1](wi25/day1.html)
+  - [Day 2](wi25/day2.html)
+  - [Day 3](wi25/day3.html)
+  - [Day 4](wi25/day4.html)
+  - [Day 5](wi25/day5.html)
+  - [Day 6](wi25/day6.html)
+  - [Day 7](wi25/day7.html)
+  - [Day 8](wi25/day8.html)
+  - [Day 9](wi25/day9.html)

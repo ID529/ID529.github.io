@@ -1,0 +1,59 @@
+---
+title: "Day 6"
+sidebar:
+  style: "floating"
+  search: true
+  contents: auto
+---
+
+Outline of topics: 
+
+  - R Markdown
+  - Debugging
+  - Time to work on final project
+
+
+::: {.callout-tip collapse='false'}
+### Lecture 1: R Markdown
+<iframe src="https://id529.github.io/slides-day6/lecture2-rmarkdown/intro-to-rmarkdown.html" width="100%" height="500px"></iframe>
+:::
+<a href="https://id529.github.io/slides-day6/lecture2-rmarkdown/intro-to-rmarkdown.html#/introduction-to-r-markdown" >link to view slides fullscreen</a>
+<br>
+
+:::{.callout-tip collapse='true'}
+### Activity for R Markdown 
+
+<iframe src="https://id529.github.io/slides-day6/activity_Rmd/id529_day6_regression_models.html" width="100%" height="500px"></iframe>
+:::
+<a href="https://id529.github.io/slides-day6/activity_Rmd/id529_day6_regression_models.html"
+target="_blank">link to view R Markdown activity</a> <br>
+<a href="https://github.com/ID529/slides-day6/blob/main/activity_Rmd/id529_day6_regression_models.Rmd"
+target="_blank">link to R Markdown source file</a> <br>
+
+
+::: {.callout-tip collapse='false'}
+### Lecture 2: Debugging
+<iframe src="https://id529.github.io/slides-day6/lecture3-debugging/debugging.html" width="100%" height="500px"></iframe>
+:::
+<a href="https://id529.github.io/slides-day6/lecture3-debugging/debugging.html" >link to view slides fullscreen</a>
+<br>
+
+::: {.callout-tip collapse='true'}
+## Video Recording from 2025
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/hTjN8Evp2eQ?si=_W710zJDwVsJTvC-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+
+:::{.callout-tip collapse='true'}
+## How to do the Peer Review, 2025
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/_ykWty1IIfQ?si=JI59hToogu-iQfoL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+
+
+::: {.callout-tip collapse='true'}
+## Video Recording from 2023
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/OKx2f8qrXmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::
+

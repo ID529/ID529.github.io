@@ -1,0 +1,79 @@
+---
+title: "Day 4"
+sidebar:
+  style: "floating"
+  search: true
+  contents: auto
+---
+
+Outline of topics: 
+
+  - Lecture: Diverse Data Sources (APIs [tidycensus, WHO, World Bank, qualtRics], scraping web data, datapasta)
+  - Lecture: How to handle factors and date-times
+  - Lecture: Working with Regression Model Objects: constructing and analyzing them
+  - Activity: Working with Regression Models
+  - Lecture: Creating Maps in R 
+  - Lecture: Reproducible Examples for Getting Help
+
+## Slides
+
+::: {.callout-tip collapse='false'}
+### Lecture 1: Diverse Data Sources
+<iframe src="https://id529.github.io/slides-day4/lecture1-diverse-data-sources/diverse_data_sources.html" width="100%" height="500px"></iframe>
+:::
+
+<a href="https://id529.github.io/slides-day4/lecture1-diverse-data-sources/diverse_data_sources.html" target="_blank">link to view slides fullscreen</a>
+<br>
+
+::: {.callout-tip collapse='true'}
+### Lecture 2: Factors and Date-times
+<iframe src="https://id529.github.io/slides-day4/lecture2-factors-and-datetimes/fct_datetime.html" width="100%" height="500px"></iframe>
+:::
+<a href="https://id529.github.io/slides-day4/lecture2-factors-and-datetimes/fct_datetime.html" target="_blank">link to view slides fullscreen</a><br>
+
+<a href="https://id529.github.io/slides-day4/factor_datetime_code/fct_datetime.R" >link to follow along code</a>
+<br> 
+
+::: {.callout-tip collapse='true'}
+### Lecture 3: Regression
+<iframe src="https://id529.github.io/slides-day4/lecture3-regression-models/id529_day4_regression_slides.html#/regression-modeling-workflows" width="100%" height="500px"></iframe>
+
+::: 
+<a href="https://id529.github.io/slides-day4/lecture3-regression-models/id529_day4_regression_slides.html" target="_blank">link to fullscreen</a> <br>
+<a href="https://github.com/jarvischen01/id529-regression-models" target="_blank">link to repository</a>
+
+::: {.callout-tip collapse='true'}
+### Lecture 4: Creating maps in R 
+<iframe src="https://id529.github.io/slides-day4/lecture4-mapping/making-maps-in-R.html" width="100%" height="500px"></iframe>
+:::
+
+<a href="https://id529.github.io/slides-day4/lecture4-mapping/making-maps-in-R.html" target="_blank">link to view slides fullscreen</a>
+
+
+::: {.callout-tip collapse='true'}
+### Lecture 5: Reproducible examples for getting help in R
+<br>
+<iframe src="https://id529.github.io/slides-day4/lecture5-reprex/reprex.html" width="100%" height="500px"></iframe>
+:::
+<a href="https://id529.github.io/slides-day4/lecture5-reprex/reprex.html" target="_blank">link to view slides fullscreen </a>
+
+## Recordings
+:::{.callout-tip collapse='true'}
+## Video Recording from 2025
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/taxtygnaOC8?si=yWf6aWsQVNq0Yk9G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+
+
+
+:::{.callout-tip collapse='true'}
+## Video Recording from 2024
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/nw_aHcsdAqw?si=Zacp7u6MxGtAu64l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::
+
+::: {.callout-tip collapse='true'}
+## Video Recording from 2023
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/Fuk6k8W2Mho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::

@@ -33,49 +33,15 @@ website:
           href: day8.qmd
         - text: Day 9
           href: day9.qmd
-      - text: Last Years' Content
-        icon: mortarboard
-        menu:
-        - text: Day 1 
-          href: wi24/day1.qmd
-        - text: Day 2
-          href: wi24/day2.qmd
-        - text: Day 3 
-          href: wi24/day3.qmd 
-        - text: Day 4
-          href: wi24/day4.qmd
-        - text: Day 5
-          href: wi24/day5.qmd
-        - text: Day 6
-          href: wi24/day6.qmd
-        - text: Day 7 
-          href: wi24/day7.qmd
-        - text: Day 8
-          href: wi24/day8.qmd
-        - text: Day 9
-          href: wi24/day9.qmd
-      - text: Content from 2023
+      - text: Past Years' Content
         icon: mortarboard
         menu: 
-        - text: Day 1 — Monday January 9, 2023 
-          href: wi23/day1.qmd
-        - text: Day 2 — Tuesday January 10, 2023 
-          href: wi23/day2.qmd
-        - text: Day 3 — Wednesday January 11, 2023 
-          href: wi23/day3.qmd 
-        - text: Day 4 — Thursday January 12, 2023
-          href: wi23/day4.qmd
-        - text: Day 5 — Friday January 13, 2023
-          href: wi23/day5.qmd
-        - text: Day 6 — Tuesday January 17, 2023
-          href: wi23/day6.qmd
-        - text: Day 7 — Wednesday January 18, 2023
-          href: wi23/day7.qmd
-        - text: Day 8 — Thursday January 19, 2023
-          href: wi23/day8.qmd
-        - text: Day 9 — Friday January 20, 2023
-          href: wi23/day9.qmd
-
+        - text: "2023"
+          href: 2023.qmd
+        - text: "2024"
+          href: 2024.qmd
+        - text: "2025"
+          href: 2025.qmd
 
 format:
   html:

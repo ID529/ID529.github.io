@@ -1,0 +1,80 @@
+---
+title: "Day 9"
+format: html
+---
+
+Outline: 
+
+  - Course Recap
+  - Reflections on Final Projects 
+  - Very Important Material 
+  - R Project Examples
+  - Growing as a Programmer 
+  - Course Evaluation Survey(s)
+
+<!--
+  - Course Recap (20m)
+  - Reflections on Final Projects (60m)
+  - Very Important Material (20m)
+  - R Project Examples (20m)
+  - Growing as a Programmer (15m)
+  - Course Evaluation Survey(s) (15m)
+      bit.ly/id529-done 
+
+    20 + 60 + 20 + 20 + 15 + 15 = 2.5 hrs = 
+      finish time of 4pm, so finishing at 4:30pm is quite likely if we allow ourselves to take 
+      some time to discuss things along the way and have a stretch break 
+-->
+
+
+## Lecture Material
+
+:::{.callout-tip collapse='false'}
+## Recap of the Class
+
+<iframe src="https://id529.github.io/slides-day9/lecture1-course-recap/course-recap.html#/title-slide" width="100%" height="500px"></iframe>
+:::
+
+[link to view fullscreen](https://id529.github.io/slides-day9/lecture1-course-recap/course-recap.html#/title-slide)
+
+:::{.callout-tip collapse='true'}
+## Reflections on Final Projects 
+
+<iframe src="https://id529.github.io/slides-day9/lecture1_final_projects/final_projects.html#/title-slide" width="100%" height="500px"></iframe>
+:::
+
+[link to view fullscreen](https://id529.github.io/slides-day9/lecture1_final_projects/final_projects.html#/title-slide)
+
+
+:::{.callout-tip collapse='true'}
+## Very Important Material 
+
+(top secret) 
+:::
+
+
+:::{.callout-tip collapse='true'}
+## R Project Examples
+
+<iframe src="https://id529.github.io/slides-day9/lecture3_my_projects/my_projects.html#/title-slide" width="100%" height="500px"></iframe>
+:::
+
+[link to view fullscreen](https://id529.github.io/slides-day9/lecture3_my_projects/my_projects.html#/title-slide)
+
+
+:::{.callout-tip collapse='true'}
+## Growing as a Programmer 
+
+<iframe src="https://id529.github.io/slides-day9/lecture4_growing/growing.html" width="100%" height="500px"></iframe>
+:::
+
+[link to view fullscreen](https://id529.github.io/slides-day9/lecture4_growing/growing.html)
+
+
+## Video Recordings
+
+:::{.callout-tip collapse='true'}
+## Video Recording from 2023
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/mCBH1BuGe1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::
