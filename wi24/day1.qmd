@@ -80,6 +80,7 @@ It's important to remember that everyone experiences moments of self-doubt and u
 
 The key is to recognize and acknowledge those feelings, and then remind ourselves of our strengths and capabilities.
 
+<!-- 
 :::{.callout-tip collapse='true'}
 ## Video Recording from This Year 
 
@@ -88,6 +89,7 @@ The key is to recognize and acknowledge those feelings, and then remind ourselve
 Apologies we accidentally didn't capture the RStudio and R talk on this recording. See the 
 prior years' recording for that section if you'd like. 
 :::
+--> 
 
 ::: {.callout-tip collapse="true"}
 ## Video Recording from Last Year
