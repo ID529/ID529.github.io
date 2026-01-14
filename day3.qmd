@@ -14,6 +14,8 @@ Outline of topics:
   - Lecture: Writing Functions 
   - Activity: Functions
 
+[Daily doc for Q&A](https://bit.ly/day3-doc)
+
 ## Slides
 
 ::: {.callout-tip collapse="false"}
