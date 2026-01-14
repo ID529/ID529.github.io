@@ -24,6 +24,7 @@ Outline of topics:
 :::
 
 <a href="https://id529.github.io/slides-day3/lecture2-intro-to-dplyr/intro-to-dplyr.html" target="_blank">link to view slides fullscreen</a> <br>
+<a href="https://drive.google.com/file/d/1UPw69kisTpAy8gC_-RGAl86amLZGsIzX/view?usp=drive_link" target="_blank">link to pdf slides</a> <br>
 
 
 
@@ -34,7 +35,8 @@ Outline of topics:
 
 :::
 
-<a href="https://id529.github.io/slides-day3/lecture4-cleaning-text-data/cleaning-text-data.html" target="_blank">link to view slides fullscreen</a> 
+<a href="https://id529.github.io/slides-day3/lecture4-cleaning-text-data/cleaning-text-data.html" target="_blank">link to view slides fullscreen</a> <br>
+<a href="https://drive.google.com/file/d/1iDfsi_YZqIPhBnavndwStIX6Ou3c6vbX/view?usp=drive_link" target="_blank">link to pdf slides</a> <br>
 
 
 ::: {.callout-tip collapse='true'}
@@ -45,6 +47,7 @@ Outline of topics:
 :::
 
 <a href="https://id529.github.io/slides-day3/activity-data-cleaning/activity-data-cleaning.html" target="_blank">link to view slides fullscreen</a> <br>
+<a href="https://drive.google.com/file/d/1yetF5d2AaX7-OjfQsiP9Gn0gxwm1_bYr/view?usp=drive_link" target="_blank">link to pdf slides</a> <br>
 
 <a href="https://github.com/jarvischen01/id529_messyData/tree/main" target="_blank">link to github repository</a>
 
@@ -55,6 +58,7 @@ Outline of topics:
 :::
 
 <a href="https://id529.github.io/slides-day3/lecture5-functions/functions.html" target="_blank">link to view slides fullscreen</a> 
+<a href="https://drive.google.com/file/d/1O2KYIxXvMBngRTpUwTNSlLRbfHnmI23D/view?usp=drive_link" target="_blank">link to pdf slides</a> <br>
 
 ## Recordings 
 
