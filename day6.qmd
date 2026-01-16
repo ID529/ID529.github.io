@@ -39,6 +39,14 @@ target="_blank">link to R Markdown source file</a> <br>
 <br>
 
 ::: {.callout-tip collapse='true'}
+### Lecture: Reproducible examples for getting help in R
+<br>
+<iframe src="https://id529.github.io/slides-day4/lecture5-reprex/reprex.html" width="100%" height="500px"></iframe>
+:::
+<a href="https://id529.github.io/slides-day4/lecture5-reprex/reprex.html" target="_blank">link to view slides fullscreen </a>
+<br>
+
+::: {.callout-tip collapse='true'}
 ## Video Recording from 2025
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/hTjN8Evp2eQ?si=_W710zJDwVsJTvC-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

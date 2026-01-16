@@ -12,8 +12,8 @@ Outline of topics:
   - Lecture: How to handle factors and date-times
   - Lecture: Working with Regression Model Objects: constructing and analyzing them
   - Activity: Working with Regression Models
+  - Time to Work in Groups
   - Lecture: Creating Maps in R 
-  - Lecture: Reproducible Examples for Getting Help
 
 ## Slides
 
@@ -24,6 +24,7 @@ Outline of topics:
 
 <a href="https://id529.github.io/slides-day4/lecture1-diverse-data-sources/diverse_data_sources.html" target="_blank">link to view slides fullscreen</a>
 <br>
+<a href="https://drive.google.com/file/d/1sdGu1K6PtVONTpaHUpOebkZqbRy4FZWW/view?usp=drive_link" target="_blank">link to pdf slides</a><br>
 
 ::: {.callout-tip collapse='true'}
 ### Lecture 2: Factors and Date-times
@@ -33,6 +34,7 @@ Outline of topics:
 
 <a href="https://id529.github.io/slides-day4/factor_datetime_code/fct_datetime.R" >link to follow along code</a>
 <br> 
+<a href="https://drive.google.com/file/d/1ace6JEyTBbnWwDyPNYMjiWMopyzLW8ue/view?usp=drive_link" target="_blank">link to pdf slides</a><br>
 
 ::: {.callout-tip collapse='true'}
 ### Lecture 3: Regression
@@ -40,22 +42,9 @@ Outline of topics:
 
 ::: 
 <a href="https://id529.github.io/slides-day4/lecture3-regression-models/id529_day4_regression_slides.html" target="_blank">link to fullscreen</a> <br>
-<a href="https://github.com/jarvischen01/id529-regression-models" target="_blank">link to repository</a>
+<a href="https://github.com/jarvischen01/id529-regression-models" target="_blank">link to repository</a><br>
+<a href="https://drive.google.com/file/d/1xHTgSmCe-5zCiOoM2jRBKB_vCwdBvG6z/view?usp=drive_link" target="_blank">link to pdf slides</a><br>
 
-::: {.callout-tip collapse='true'}
-### Lecture 4: Creating maps in R 
-<iframe src="https://id529.github.io/slides-day4/lecture4-mapping/making-maps-in-R.html" width="100%" height="500px"></iframe>
-:::
-
-<a href="https://id529.github.io/slides-day4/lecture4-mapping/making-maps-in-R.html" target="_blank">link to view slides fullscreen</a>
-
-
-::: {.callout-tip collapse='true'}
-### Lecture 5: Reproducible examples for getting help in R
-<br>
-<iframe src="https://id529.github.io/slides-day4/lecture5-reprex/reprex.html" width="100%" height="500px"></iframe>
-:::
-<a href="https://id529.github.io/slides-day4/lecture5-reprex/reprex.html" target="_blank">link to view slides fullscreen </a>
 
 ## Recordings
 :::{.callout-tip collapse='true'}

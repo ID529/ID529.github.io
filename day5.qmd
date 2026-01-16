@@ -9,6 +9,7 @@ sidebar:
 Outline of topics: 
 
   - Course Core Concept Script
+  - Mapping
   - Reproducibility and Robustness
   - Visualizing and Reporting on Regression 
   - QR Code Activity 
@@ -164,17 +165,29 @@ model_results |>
 ```
 :::
 
+::: {.callout-tip collapse='true'}
+### Lecture: Creating maps in R 
+<iframe src="https://id529.github.io/slides-day4/lecture4-mapping/making-maps-in-R.html" width="100%" height="500px"></iframe>
+:::
+
+<a href="https://id529.github.io/slides-day4/lecture4-mapping/making-maps-in-R.html" target="_blank">link to view slides fullscreen</a><br>
+<a href="https://drive.google.com/file/d/1W1B3bhb4Wv1slInqvOWt3iTqGZF6ZsGd/view?usp=drive_link" target="_blank">link to pdf slides</a>
+
+
 
 ::: {.callout-tip collapse='true'}
-### Lecture 1: Reproducibility and Robustness
+### Lecture: Reproducibility and Robustness
 <iframe src="https://id529.github.io/slides-day5/lecture1-reproducibility-and-robustness/reproducibility.html" width="100%" height="500px"></iframe>
 :::
 <a href="https://id529.github.io/slides-day5/lecture1-reproducibility-and-robustness/reproducibility.html" >link to view slides fullscreen</a>
 <br>
+<a href="https://drive.google.com/file/d/1Y6GxwnoixVGVYzoWtCeQjoVReOnkWOLv/view?usp=drive_link" >link to pdf slides</a>
+<br>
+
 
 <!-- 
 ::: {.callout-tip collapse='true'}
-### Lecture 2: Data Dictionaries and Documentation
+### Lecture: Data Dictionaries and Documentation
 <iframe src="https://id529.github.io/lectures/day2/lecture2-data-dictionaries-and-documentation/data-documentation.html#/data-dictionaries" width="100%" height="500px"></iframe>
 :::
 <a href="https://id529.github.io/lectures/day2/lecture2-data-dictionaries-and-documentation/data-documentation.html#/data-dictionaries" >link to view slides fullscreen</a>
@@ -185,7 +198,7 @@ model_results |>
 --> 
 
 ::: {.callout-tip collapse='true'}
-### Lecture 2: Regression (part 2!)
+### Lecture: Regression (part 2!)
 
 <iframe src="https://id529.github.io/slides-day5/lecture2-regression-reporting/id529_day5_regression_pretty_output.html" width="100%" height="500px"></iframe>
 :::
@@ -194,15 +207,19 @@ model_results |>
 <br>
 <a href="https://github.com/jarvischen01/id529-regression-models" >link to repository</a></iframe>
 <br> 
+<a href="https://drive.google.com/file/d/1MacNXbVcgH2Ag3WCqCgS5Y2TkRwQ8uC-/view?usp=drive_link" >link to pdf slides</a>
+<br>
 
 ::: {.callout-tip collapse='true'}
-### Lecture 3: Data linkage methods
+### Lecture: Data linkage methods
 
 <iframe src="https://id529.github.io/slides-day5/lecture3-data-linkage-methods/data-linkage-methods.html#/introduction-to-data-linkage" width="100%" height="500px"></iframe> 
 :::
 <a href="https://id529.github.io/slides-day5/lecture3-data-linkage-methods/data-linkage-methods.html#/introduction-to-data-linkage" >link to view slides fullscreen</iframe>
 <br> 
-<a href="https://github.com/ID529/lectures2024/blob/master/day5/lecture3-data-linkage-methods/nhanes-activity.R" >link to follow along code</a>
+<a href="https://github.com/ID529/lectures2024/blob/master/day5/lecture3-data-linkage-methods/nhanes-activity.R" >link to follow along code</a><br>
+<a href="https://drive.google.com/file/d/1CZd49yowa4445sDr1EdiFaLQ_PaN8kGc/view?usp=drive_link" >link to pdf slides</a><br>
+
 
 ::: {.callout-tip collapse='true'}
 ### Brown et al Response and Reproduction of Onikye et al
