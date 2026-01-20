@@ -14,11 +14,12 @@ Outline of topics:
 
 
 ::: {.callout-tip collapse='false'}
-### Lecture 1: R Markdown
+### Lecture: R Markdown
 <iframe src="https://id529.github.io/slides-day6/lecture2-rmarkdown/intro-to-rmarkdown.html" width="100%" height="500px"></iframe>
 :::
 <a href="https://id529.github.io/slides-day6/lecture2-rmarkdown/intro-to-rmarkdown.html#/introduction-to-r-markdown" >link to view slides fullscreen</a>
 <br>
+<a href="https://drive.google.com/file/d/1rsN2dhOLzfjBXBQDPlzVykDmhD1WRX26/view?usp=drive_link">link to pdf slides</a><br>
 
 :::{.callout-tip collapse='true'}
 ### Activity for R Markdown 
@@ -32,11 +33,12 @@ target="_blank">link to R Markdown source file</a> <br>
 
 
 ::: {.callout-tip collapse='false'}
-### Lecture 2: Debugging
+### Lecture: Debugging
 <iframe src="https://id529.github.io/slides-day6/lecture3-debugging/debugging.html" width="100%" height="500px"></iframe>
 :::
 <a href="https://id529.github.io/slides-day6/lecture3-debugging/debugging.html" >link to view slides fullscreen</a>
 <br>
+<a href="https://drive.google.com/file/d/1zc48rLk_KKe03R1zOj0J_7FVkzMZb2kJ/view?usp=drive_link">link to pdf slides</a><br>
 
 ::: {.callout-tip collapse='true'}
 ### Lecture: Reproducible examples for getting help in R
@@ -45,6 +47,7 @@ target="_blank">link to R Markdown source file</a> <br>
 :::
 <a href="https://id529.github.io/slides-day4/lecture5-reprex/reprex.html" target="_blank">link to view slides fullscreen </a>
 <br>
+<a href="https://drive.google.com/file/d/1hZ0ps0STGaBU_mEZlvDDNx0vt8ixv59w/view?usp=drive_link">link to pdf slides</a> <br>
 
 ::: {.callout-tip collapse='true'}
 ## Video Recording from 2025
