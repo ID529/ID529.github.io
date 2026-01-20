@@ -10,6 +10,7 @@ Outline of topics:
 
   - R Markdown
   - Debugging
+  - Reproducible Examples for Getting Help
   - Time to work on final project
 
 
@@ -32,7 +33,7 @@ target="_blank">link to view R Markdown activity</a> <br>
 target="_blank">link to R Markdown source file</a> <br>
 
 
-::: {.callout-tip collapse='false'}
+::: {.callout-tip collapse='true'}
 ### Lecture: Debugging
 <iframe src="https://id529.github.io/slides-day6/lecture3-debugging/debugging.html" width="100%" height="500px"></iframe>
 :::
